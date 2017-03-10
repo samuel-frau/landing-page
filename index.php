@@ -13,6 +13,7 @@
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/bootstrap.css" rel="stylesheet">
 
     <!-- Custom CSS -->
     <link href="css/landing-page.css" rel="stylesheet">
@@ -157,18 +158,17 @@
 			  <!-- Wrapper for slides -->
 			  <div class="carousel-inner" role="listbox">
 				<div class="item active">
-				  <img src="..." alt="...">
+				  <img src="img/dog.png" alt="Caneeee">
 				  <div class="carousel-caption">
-					...
+					fdfff
 				  </div>
 				</div>
 				<div class="item">
-				  <img src="..." alt="...">
+				  <img src="img/dog.png" alt="eeehhhhh">
 				  <div class="carousel-caption">
-					...
+					<!-- -->
 				  </div>
 				</div>
-				...
 			  </div>
 
 			  <!-- Controls -->
@@ -182,7 +182,7 @@
 			  </a>
 			</div>
             <div class="item">
-			  <img src="img/dog.png" alt="cane">
+			  <img src="" alt="cane">
 			  <div class="carousel-caption">
 				<h3>Prova<h3>
 				<p>Prova</p>
