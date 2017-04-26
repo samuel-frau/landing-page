@@ -11,13 +11,13 @@ class IndexTest extends DOMTestCase
     public function testTagContent()
     {
         $selector = 'h1.title';
-        $content  = 'Test title text';
+        $content  = 'Benvenuti nella mia landing page';
         $this->assertSelectEquals($selector, $content, true, $this->html);
     }
     public function testClassContent()
     {
-        $selector = 'div.foo';
-        $content  = 'Test class text';
+        $selector = 'p.copyright';
+        $content  = 'p.copyright';
         $this->assertSelectEquals($selector, $content, true, $this->html);
     }
     public function testCountList()
